@@ -12,10 +12,9 @@ Sno. | Name | Version/Description
 Sno. | Name | Version
 ----:|:----:|:-------------------
 1 | beautifulsoup4 | 4.9.3
-2 | pandas | 1.1.4
-3 | progressbar | 2.5
-4 | pylint | 2.6.0
-5 | requests | 2.25.0
+2 | progressbar | 2.5
+3 | pylint | 2.6.0
+4 | requests | 2.25.0
 
 Since VirtualEnv cannot be uploaded to Git repo, find the list of modules in [requirements.txt](https://github.com/VagueCoder/Flipkart-Mobiles-Details-Scraper/blob/master/requirements.txt).
 
